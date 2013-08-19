@@ -11,9 +11,4 @@ git clone https://github.com/sayedatifali/setup.git
 ./setup/setup.sh   
 ```
 
-See also http://github.com/sayedatifali/dotfiles and
-
-
-
-
-
+See also http://github.com/sayedatifali/UbuntuServerConfiguration/dotfiles
