@@ -3,6 +3,7 @@
 # for headless setup. 
 
 sudo apt-get install -y git-core
+sudo apt-get install -y openssh-server
 
 sudo apt-get install -y python-pip
 sudo apt-get install -y python-dev
